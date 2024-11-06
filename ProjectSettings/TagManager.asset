@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - SolidObjects
+  - Enemy
+  - Player
+  - PlayerDetectRange
+  - EnemyHitbox
+  - PlayerHitbox
+  - InteractObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WorldBackground
+    uniqueID: 3707651617
+    locked: 0
+  - name: WorldWalls
+    uniqueID: 2824882695
+    locked: 0
+  - name: BottomObjects
+    uniqueID: 680882073
+    locked: 0
+  - name: Floor
+    uniqueID: 2185383719
+    locked: 0
+  - name: Rooms
+    uniqueID: 1674375597
+    locked: 0
+  - name: TopObjects
+    uniqueID: 1539457479
+    locked: 0
+  - name: InnerWalls
+    uniqueID: 3501316679
+    locked: 0
+  - name: Player
+    uniqueID: 2726270525
+    locked: 0
+  - name: Enemy
+    uniqueID: 121899021
+    locked: 0

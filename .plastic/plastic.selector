@@ -1,0 +1,4 @@
+repository "Prototype2Da@dane_nylle05@cloud"
+  path "/"
+    br "/main"
+    co "/main"

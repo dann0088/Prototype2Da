@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23f87633e68219f44b379fd9e11bd758, type: 3}
+  m_Name: AudioClipRefSO
+  m_EditorClassIdentifier: 
+  attack: {fileID: 8300000, guid: 9de6b53bc3391fd4582df238e0c0baad, type: 3}
+  footstepDefault: {fileID: 8300000, guid: ee76250572fd51145b2a80f37e15dc47, type: 3}
+  footstepGlass: {fileID: 8300000, guid: f9dbff08e8c72b34b93abda6e4f71f74, type: 3}
+  footstepMetal: {fileID: 8300000, guid: 129f5f3ac75c50341b646ab037d5bea4, type: 3}
+  hitEnemy: {fileID: 8300000, guid: 85f464cd580f4dd429e1998f1a566ca8, type: 3}
+  takingDamage: {fileID: 8300000, guid: 1cfe008a790c3b9409f1e6b92b9c2072, type: 3}
+  enemyDied: {fileID: 8300000, guid: c5239cc67b944d04a86d5830ec09b28f, type: 3}
+  enemyEnrageState: {fileID: 8300000, guid: 983c932974e6a1c4db62857fa3bd7e67, type: 3}
+  enemyIdleState: {fileID: 8300000, guid: 45c27e625a35f254788af6c101cedb5b, type: 3}
+  getInTheBag: {fileID: 8300000, guid: 385ba3fc0107af246bcc1ef1f9c2e133, type: 3}
